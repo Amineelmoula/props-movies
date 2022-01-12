@@ -1,0 +1,33 @@
+.cardsList {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+}
+.cardsList img {
+  width: 100%;
+}
+.cards {
+  margin: 12px;
+  padding: 12px;
+  width: 400px;
+  background-color: #979696;
+  color: rgb(0, 0, 0);
+  display: flex;
+  height: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.cardsList h1 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+}
+.rate {
+  color: black;
+}
+#title {
+  color: black;
+  text-align: center;
+}
